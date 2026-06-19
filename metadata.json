@@ -1,0 +1,6 @@
+{
+  "name": "PODI BUSINESS",
+  "description": "A comprehensive monthly budget planning app for small businesses featuring a local database, custom accounts, isolated product costing selling chamber, treasury, and settlement logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
